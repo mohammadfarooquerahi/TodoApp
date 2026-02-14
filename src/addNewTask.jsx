@@ -15,7 +15,8 @@ export const AddNewTask = (props) => {
   };
 
   //   console.log(taskValue);
-  console.log("render");
+  console.log("render as rendered");
+  alert("cahnges done as push on github");
 
   return (
     <div
@@ -32,7 +33,7 @@ export const AddNewTask = (props) => {
           fontSize: "30px",
           width: "80%",
           borderRadius: "5px",
-          padding: "10px 20px"
+          padding: "10px 20px",
         }}
         // onChange={onHandleTaskInput}
         ref={inputFieldRef}
