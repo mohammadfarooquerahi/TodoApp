@@ -1,0 +1,32 @@
+// ============ FOR INIT COMMIT ==========
+// git Init
+
+// set user name 
+// git config user.name "farooq"
+
+// set user email
+// git config user.email "farooqrahi828@gmail.com"
+
+// git add file name or .
+
+// git commit -m "your message as commit to changes"
+
+// connect remote repository
+// git remote add origin <remote-url>
+
+// to check remote reppository 
+// git remote -v
+
+// git branch -M main
+
+// when you push first time branch code so run below
+// git push -u origin main/master
+
+
+// ============ FOR SECOND  TIME COMMIT ==========
+
+git checkout -b newbranchname
+now you will be automatically switch to new branch
+
+git branches
+to check global branches 

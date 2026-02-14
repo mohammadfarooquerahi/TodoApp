@@ -1,3 +1,6 @@
+
+
+
 import { useState, useRef } from "react";
 
 export const AddNewTask = (props) => {
@@ -16,7 +19,8 @@ export const AddNewTask = (props) => {
 
   //   console.log(taskValue);
   console.log("render as rendered");
-  alert("cahnges done as push on github");
+  // alert("cahnges done as push on github");
+
 
   return (
     <div
